@@ -1,0 +1,212 @@
+1. Kolm korda
+Joo 3 korda.
+
+2. Kõik koos
+Kõik joovad.
+
+3. Sinu nimi
+Joo iga tähe eest oma nimes.
+
+4. Käed eemale
+Joo ilma käteta.
+
+5. Käesurumine
+Suru kätt iga inimesega. Kaotaja joob.
+
+6. Öökull
+Inimene, kes läks eile kõige hiljem magama, joob.
+
+7. Huulepulk
+Kõik, kellel on huulepulk suul, joovad.
+
+8. Ühel jalal
+Kõik seisavad ühel jalal. Esimene, kes tasakaalu kaotab, joob.
+
+9. Naljanina
+Inimene sinust paremal ütleb nalja. Rahvas otsustab, kas ta joob või ei.
+
+10. Mehed
+Mehed joovad.
+
+11. Naised
+Naised joovad.
+
+12. Pikad juuksed
+Kõige pikemate juustega inimene joob.
+
+13. Vaikusevoor
+Ole üks voor vait või joo.
+
+14. Komplimendiring
+Minge ringis ja öelge järgmisele inimesele kompliment.
+
+15. Sirge naeratus
+Kõige sirgemate hammastega inimene joob.
+
+16. Lõhnatest
+Nuusuta kõiki inimesi. Kõige parema lõhnaga inimene joob.
+
+17. Valuutaring
+Nimetage päripäeva eri valuutasid. Esimene, kes ei tea, joob.
+
+18. Ammu pole võtnud
+Inimene, kes jõi kõige kauem aega tagasi, joob.
+
+19. Otsaesimusi
+Tee lähedal olevale inimesele otsaette musi.
+
+20. Lihtsalt joo
+Lihtsalt joo.
+
+21. Kolm omadust
+Ütle kolm omadussõna sinust paremal oleva inimese kohta.
+
+22. Pudel otsustab
+Keeruta pudelit. Võitja joob.
+
+23. Põrand!
+Kõik puudutavad põrandat. Viimane joob.
+
+24. Enamus joob
+Kui naisi on rohkem, joovad naised. Kui mehi on rohkem, joovad mehed.
+
+25. Pitsa või burger
+Kõik valivad: pitsa või burger. Väiksem grupp joob.
+
+26. Loll nägu
+Kõik teevad oma kõige lollima näo. Kõige vähem veidra näoga inimene joob.
+
+27. Põhjani
+Kõik joovad oma joogi lõpuni.
+
+28. Topeltvoor
+Järgmisel voorul joovad kõik topelt.
+
+29. Pilgupüüdja
+Esimene, kes sinuga silmkontakti loob, joob.
+
+30. Poosiring
+Öelge ringis seksipoose. Kes ei tea, joob.
+
+31. Kallistus
+Kallista ühte mängijat.
+
+32. Varvasteni
+Puuduta oma varbaid sirgete jalgadega või joo.
+
+33. Jääd vahele
+Oled jobi. Jääd vahele.
+
+34. Pealinnaring
+Nimetage päripäeva pealinnu. Esimene, kes ei tea, joob.
+
+35. Silmapilgutus
+Pilguta enda vastas olevale inimesele seksikalt silma. Kui kumbki naerab, joote mõlemad.
+
+36. Ilus keel
+Kes esimesena ropendab, joob.
+
+37. Parim sõber
+Kui su parim sõber mängib praegu kaasa, jood.
+
+38. Parim naeratus
+Vali kõige ilusama naeratusega inimene. Tema joob.
+
+39. Ilusad silmad
+Kõige ilusamate silmadega inimene joob.
+
+40. Põrandakoht
+Kõige lühem inimene istub ühe vooru põrandal.
+
+41. Valitud kolmik
+Vali kolm inimest, kes joovad.
+
+42. Pilgud üles
+Kõik vaatavad maha. Kolme peal vaatavad kõik üles. Kellega esimesena pilgud kohtuvad, temaga jood.
+
+43. Sein!
+Puuduta seina. Esimene joob.
+
+44. Vasak käsi
+Kasuta ühe vooru jooksul ainult vasakut kätt.
+
+45. Lemmikvärv
+Kolme peal ütleb igaüks oma lemmikvärvi. Sama värvi öelnud joovad edasi.
+
+46. Koos on parem
+Vali, kellega koos jood.
+
+47. Täishäälik
+Kõik, kelle nimi algab täishäälikuga, joovad.
+
+48. Mustad sokid
+Kõik, kellel on mustad sokid, joovad.
+
+49. Viimane saabuja
+Kõige viimasena kohale jõudnud inimene joob.
+
+50. Aku tühi
+Kõik, kelle telefonil on alla 20% akut, joovad.
+
+51. Katkine ekraan
+Kõik, kelle telefoniekraan on katki, joovad.
+
+52. Prillid
+Kõik, kellel on prillid ees, joovad.
+
+53. Käekell
+Kõik, kellel on käekell, joovad.
+
+54. Tätoveering
+Kõik, kellel on nähtav tätoveering, joovad.
+
+55. Hilinemine
+Kõik, kes täna hilinesid, joovad.
+
+56. Toidukuller
+Kõik, kes täna süüa tellisid, joovad.
+
+57. Järgmine sünnipäev
+Inimene, kelle sünnipäev on järgmisena, valib kellegi, kes joob.
+
+58. Sama värv
+Kõik, kellel on sinuga sama värvi riideese, joovad.
+
+59. Automargid
+Nimetage ringis automarke. Esimene, kes kordab või ei tea, joob.
+
+60. Eesti linnad
+Nimetage ringis Eesti linnu. Esimene, kes kordab või ei tea, joob.
+
+61. Halvad vabandused
+Nimetage ringis halbu vabandusi loengust puudumiseks. Kes mõtlema jääb, joob.
+
+62. Riimiring
+Nimetage ringis sõnu, mis riimuvad sõnaga „maja”. Esimene, kes hätta jääb, joob.
+
+63. Kivi-paber-käärid
+Sina ja sinust vasakul istuja mängite kivi-paber-kääre. Kaotaja joob.
+
+64. Ümise laulu
+Ümise ühte laulu. Kui keegi kümne sekundiga ära ei arva, jood.
+
+65. Otsinguajalugu
+Kõik osutavad inimesele, kellel oleks kõige veidram otsinguajalugu. Enim hääli saanu joob.
+
+66. Telefonita
+Kõik osutavad inimesele, kes suudaks kõige kauem ilma telefonita olla. Enim hääli saanu valib kellegi, kes joob.
+
+67. Uudisteankur
+Räägi järgmise kaardini nagu uudisteankur. Kui unustad, jood.
+
+68. Keelatud sõna
+Mõtle välja üks sõna. Kes seda järgmise kolme kaardi jooksul ütleb, joob.
+
+69. Flirdi esemega
+Ütle laual olevale esemele oma kõige halvem flirtimislause.
+
+70. Hilinenud flirt
+Kõik, kes on kunagi flirtimisest alles hiljem aru saanud, joovad.
+
+71. Kohe kohal
+Kõik, kes on öelnud „olen kohe kohal”, kuigi olid veel kodus, joovad.
